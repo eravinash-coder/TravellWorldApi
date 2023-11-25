@@ -6,6 +6,7 @@
     "node": "18.x"
   },
   "scripts": {
+    "build": "[my-framework] build --output public"
     "start": "nodemon app.js"
   },
   "keywords": [],
